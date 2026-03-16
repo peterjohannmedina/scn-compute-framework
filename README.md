@@ -72,6 +72,8 @@ The subconscious is **bytecode, not interpretation**. What began as conscious de
 
 **Freudian correction:** Unlike human repression, compute "suppression" is selective attention, not denial. The data is there; the pointer is just not in the working set.
 
+> **Note:** Freud's model of the subconscious is referenced here for semantic structure and naming credit, not as a scientifically validated model of human behavioral architecture. The framework borrows terminology and layered structure from psychoanalytic theory while adapting it for explicit, inspectable compute systems.
+
 **Compute analogs:**
 - Compiled tool chains
 - Recovery scripts and retry logic
